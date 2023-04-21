@@ -1,5 +1,5 @@
 <h1>console.log('Hello World')</h1><br>
-  <h1>Sou Wagner Castro, Estudante de Multimídia 📹 e Full-stack 💻</h1>
+  <h1>Sou Wagner Castro, Tecnico em Multimídia 📹 e Full-stack 💻</h1>
 
 
   ![Wagner GitHub stats](https://github-readme-stats.vercel.app/api?username=OliveerCastro&show_icons=true&theme=highcontrast)
